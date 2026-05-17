@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #f0f3f5;
+    text-align: center;
+    padding: 30px;
+}
+
+textarea {
+    width: 60%;
+    font-size: 16px;
+    padding: 10px;
+}
+
+button {
+    padding: 10px 20px;
+    margin-top: 10px;
+    background: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+}
+
+button:hover {
+    background: #45a049;
+}
+
+.result {
+    margin-top: 20px;
+    background: white;
+    display: inline-block;
+    padding: 15px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px #ccc;
+}
